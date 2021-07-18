@@ -47,7 +47,7 @@ namespace WindowsFormsApp3
             string queryString = "SELECT [GX_NAME] FROM[NCMR].[dbo].[T1_GX]";
             comboBoxAdder(connection_string, queryString, comboBox1);
         }
-        //组合框中选项改变的事件
+        // 正常人谁注释啊（破真）
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             //当组合框中选择的值发生变化时弹出消息框显示当前组合框中选择的值
