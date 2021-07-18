@@ -1,0 +1,1 @@
+server=.;database=NCMR;uid=sa; pwd=19829909!!
