@@ -41,6 +41,7 @@ namespace WindowsFormsApp3
                 }
             }
         }
+        // 正常人当然写注释
         private void ComboBoxForm_Load()
         {
             string connection_string = connectionString;

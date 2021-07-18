@@ -340,4 +340,4 @@ ASALocalRun/
 healthchecksdb
 
 # file paths
-.paths/
+/WindowsFormsApp3/paths/*
